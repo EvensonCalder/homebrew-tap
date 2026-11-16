@@ -1,6 +1,6 @@
 cask "mygopia" do
-  version "0.3.1"
-  sha256 "d452e93bf7930835ea0f13eeb9bbe65df9adae5d6393123b2b29ef856f5592f0"
+  version "0.3.2"
+  sha256 "f4acd1a4d50a7e3290c4c8cb13d105999804c72efbe4459a57e3b439cdc82845"
 
   url "https://github.com/EvensonCalder/mygopia/releases/download/v#{version}/mygopia-#{version}.dmg"
   name "Mygopia"
